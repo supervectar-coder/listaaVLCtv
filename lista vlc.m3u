@@ -33,11 +33,11 @@ http://vlc.shickat.me:8000/pid/e4bce95dd4faeb9cb09ade36a0636bc4b22b691c/stream.m
 http://vlc.shickat.me:8000/pid/cf6ffdfa3c51268c0bd216da6b275fb866160c0c/stream.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWpf4FcM/clasicos.png" tvg-id="M+ Clásicos HD" group-title="M+ CINE SERIES", MOVISTAR CLASICOS FHD --> NEW ERA VI
 http://vlc.shickat.me:8000/pid/6462c8f65fcaa6e4fc874fef8d1e45bb7a7e6bae/stream.mp4
-#EXTINF:-1 tvg-logo="https://roams.es/images/post/es_ES_news/categoria-telefonia/comic-de-la-vineta-a-la-pantalla-movistar-plus.webp" tvg-id="Decasa" group-title="M+ CINE SERIES", MOVISTAR ROMANCE FHD --> NEW ERA VI
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MROMA.png" tvg-id="" group-title="M+ CINE SERIES", MOVISTAR ROMANCE FHD --> NEW ERA VI
 http://vlc.shickat.me:8000/pid/4bfeb0516c44c4f0e3502e3f1ca1035d39ddf9c2/stream.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Indie%20HD.png" tvg-id="M+ Indie HD" group-title="M+ CINE SERIES", MOVISTAR INDIE FHD --> NEW ERA VI
 http://vlc.shickat.me:8000/pid/7716c9fd5bd4413715e4e26f97efb91802f6ee80/stream.mp4
-#EXTINF:-1 tvg-logo="https://i.blogs.es/609ad9/blob/original.jpeg" tvg-id="" group-title="M+ CINE SERIES", MOVISTAR TERROR FHD --> NEW ERA VI
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TERROR.png" tvg-id="" group-title="M+ CINE SERIES", MOVISTAR TERROR FHD --> NEW ERA VI
 http://vlc.shickat.me:8000/pid/cf99e99c105162410ec6d1f68cc6f4811560fee7/stream.mp4
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/DARK.png?raw=true" tvg-id="DARK" group-title="M+ CINE SERIES", DARK HD --> NEW ERA III
 http://vlc.shickat.me:8000/pid/25465ea2deba65c623b7659136abf6fcc9f5dc20/stream.mp4
@@ -45,12 +45,14 @@ http://vlc.shickat.me:8000/pid/25465ea2deba65c623b7659136abf6fcc9f5dc20/stream.m
 http://vlc.shickat.me:8000/pid/8e1bbcb6a6b8b9bb0e1144454fda35531107cdb3/stream.mp4
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/AMC%20HD.png?raw=true" tvg-id="AMC HD" group-title="M+ CINE SERIES", AMC HD --> NEW ERA
 http://vlc.shickat.me:8000/pid/55ff9ee631af351f365f51cf3601695bf1fd20f3/stream.mp4
-#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FArchivo%3AXTRM_Espa%25C3%25B1a.png&psig=AO vVaw3MO7LTsUT9-gIyBuLPTnKK&ust=1760139958174000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPiGirimmJADFQAAAAAdAAAAABAE" tvg-id="XTRM" group-title="M+ CINE SERIES", XTRM FHD --> NEW ERA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/XTRM_Espa%C3%B1a.png" tvg-id="XTRM" group-title="M+ CINE SERIES", XTRM FHD --> NEW ERA
 http://vlc.shickat.me:8000/pid/d7d3830018cfd93c7430c19ba703a053680476a0/stream.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Documentales%20HD.png" tvg-id="M+ Documentales HD" group-title="M+ DOCUMENTALES Y OTROS", MOVISTAR DOCUMENTALES FHD --> NEW ERA VI
 http://vlc.shickat.me:8000/pid/b3fc9b5647c5933b101c0b6b64322590c68587b9/stream.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Discovery.png" tvg-id="Discovery" group-title="M+ DOCUMENTALES Y OTROS", DISCOVERY CHANNEL HD --> NEW ERA
 http://vlc.shickat.me:8000/pid/670519ffe8db1e20d0c753d4f756c009e71173d8/stream.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Decasa.png" tvg-id="Canal decasa" group-title="M+ DOCUMENTALES Y OTROS", CANAL DECASA FHD --> NEW ERA
+http://vlc.shickat.me:8000/pid/155d742120310a0ca80b0c8833d94979aa7f0b08/stream.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Cocina.png" tvg-id="Canal Cocina" group-title="M+ DOCUMENTALES Y OTROS", CANAL COCINA FHD --> NEW ERA
 http://vlc.shickat.me:8000/pid/96f092e1fa99062f6da14cae230b877ad3ed849b/stream.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caza%20y%20Pesca%20HD.png" tvg-id="Caza y Pesca HD" group-title="M+ DOCUMENTALES Y OTROS", CAZA Y PESCA FHD HD --> NEW ERA
@@ -71,8 +73,6 @@ http://vlc.shickat.me:8000/pid/9934906503661142f97a044ae1509a294057c2ed/stream.m
 http://vlc.shickat.me:8000/pid/cc5ed178702605513cd18b4899c4be954d306cca/stream.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qFgSG92W/antena3.png" tvg-id="Antena 3 HD" group-title="TDT", ANTENA 3 FHD --> NEW ERA
 http://vlc.shickat.me:8000/pid/f9d2a6d5da8d1f2423a0b6ed0047636a728040e9/stream.mp4
-#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Arag%C3%B3n%20TV%20Internacional.png?raw=true" tvg-id="Aragón TV" group-title="TDT", ARAGON TV HD --> NEW ERA
-http://vlc.shickat.me:8000/pid/ba4597903f099695e7d6bcc5938f91cb0798006b/stream.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C3yh66tp/cuatro.png" tvg-id="Cuatro HD" group-title="TDT", CUATRO FHD --> NEW ERA
 http://vlc.shickat.me:8000/pid/8d66979e705a8b532b9243bbc0862c0f1c734ef0/stream.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C3yh66tp/cuatro.png" tvg-id="Cuatro HD" group-title="TDT", CUATRO FHD --> ELCANO
@@ -89,3 +89,5 @@ http://vlc.shickat.me:8000/pid/6e1b5fd8753352486aa932f802534a17556e1f60/stream.m
 http://vlc.shickat.me:8000/pid/19cab799c86251ae8ae5f4b4faace9b78d784abc/stream.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/TVG%20Europa%20HD.png" tvg-id="TVG Europa HD" group-title="TDT", TVG EUROPA HD --> NEW ERA
 http://vlc.shickat.me:8000/pid/d48b299bbcd811cfd14159224bf5012a305021c1/stream.mp4
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Arag%C3%B3n%20TV%20Internacional.png?raw=true" tvg-id="Aragón TV" group-title="TDT", ARAGON TV HD --> NEW ERA
+http://vlc.shickat.me:8000/pid/ba4597903f099695e7d6bcc5938f91cb0798006b/stream.mp4
